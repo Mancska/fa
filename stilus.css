@@ -1,0 +1,6 @@
+article{
+    display: flex;
+    text-align: justify;
+    flex: 1 1 200px;
+    color: rgb(245, 220, 220);
+}
